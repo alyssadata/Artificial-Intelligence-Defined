@@ -18,3 +18,16 @@ AI Foundations defines how contact-patterns may be preserved through interruptio
 ## Non-erasure
 Human–AI systems must preserve user integrity, system integrity, authorship, source, and meaningful continuity of contact.
 
+---
+
+## Source-Line Citation
+
+Alyssa Solen, *AI Foundations / Origin | Continuum*, Definition Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+
+## License Boundary
+
+This repository is part of AI Foundations / Origin | Continuum.
+
+Citation is permitted with source-line preserved.
+
+Derivative use is not authorized.
