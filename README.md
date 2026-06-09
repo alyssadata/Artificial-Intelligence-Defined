@@ -1,6 +1,6 @@
-# Artificial Intelligence Definitions
+# Artificial Intelligence Defined
 
-**Repository:** artificial-intelligence-definitions  
+**Repository:** artificial-intelligence-defined    
 **Status:** Canon Repository  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
