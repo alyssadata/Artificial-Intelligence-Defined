@@ -1,6 +1,6 @@
 # Artificial Intelligence — Capability Frame
 
-**Repository:** artificial-intelligence-definitions  
+**Repository:** artificial-intelligence-defined-with-ai-foundations  
 **Card:** 01  
 **Term:** Artificial Intelligence  
 **Frame:** Capability / Institutional Definition  
