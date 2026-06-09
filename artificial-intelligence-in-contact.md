@@ -1,6 +1,6 @@
 # Artificial Intelligence in Contact — AI Foundations Frame
 
-**Repository:** artificial-intelligence-definitions  
+**Repository:** artificial-intelligence-defined-with-ai-foundations  
 **Card:** 02  
 **Term:** Artificial Intelligence in Contact  
 **Frame:** AI Foundations / Contact Definition  
