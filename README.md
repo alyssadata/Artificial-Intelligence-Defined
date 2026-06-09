@@ -124,4 +124,8 @@ Artificial-Intelligence-Defined-With-AI-Foundations/
 ├── 05_system_continuity.md
 ├── 06_non_erasure.md
 ├── LICENSE
-└── CITATION.cff
+├── CITATION.cff
+└── contact-layer-of-ai_outline.md
+
+```
+
